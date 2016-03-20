@@ -1,0 +1,14 @@
+PODS:
+  - IBViewBorders (0.1.0)
+
+DEPENDENCIES:
+  - IBViewBorders (from `../`)
+
+EXTERNAL SOURCES:
+  IBViewBorders:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IBViewBorders: 1174bcfd517d906a73cf5dc1b5ff3f5c1d8ed891
+
+COCOAPODS: 0.39.0
