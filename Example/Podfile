@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+
+target 'IBViewBorders_Tests', :exclusive => true do
+  pod 'IBViewBorders', :path => '../'
+
+  
+end
